@@ -50,7 +50,7 @@ const NavBar = () => {
           {sideNavLinks.map(({ id, linkTo, name, icon, backgroundColor }) => (
             <li
               key={id}
-              className={`w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-${backgroundColor}`}
+              className={`w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 ${backgroundColor}`}
             >
               <a
                 className="flex justify-between items-center w-full text-gray-300"
