@@ -34,7 +34,7 @@ export const sideNavLinks = [
   {
     id: 5,
     linkTo:
-      "https://drive.google.com/file/d/11Ovghyke_ZshexmDNuGCEU0JPDkxhM9s/view?usp=sharing",
+      "https://drive.google.com/file/d/1vgvNFLAt8ZcSAizLYMfKO-qT6MbN8BXb/view?usp=sharing",
     name: "Resume",
     icon: <BsFillPersonLinesFill size={30} />,
     backgroundColor: "bg-[#565f69]",
